@@ -13,7 +13,7 @@ les départs d'employés à partir de données RH réelles.
 ---
 
 ## 📸 Aperçu du Dashboard
-!exports/{D86FBF9A-B70E-40AB-994A-50C9FD3D5EB2}.png
+![Dashboard](exports/dashboard_preview.png)
 
 ---
 
@@ -49,3 +49,24 @@ les départs d'employés à partir de données RH réelles.
 ---
 
 ## 📁 Structure du projet
+dashboard-rh/
+├── data/
+│   ├── WA_Fn-UseC_-HR-Employee-Attrition.csv
+│   └── hr_clean.csv
+├── scripts/
+│   ├── 01_exploration.py
+│   ├── 02_cleaning.py
+│   └── 03_sql_load.py
+├── exports/
+│   ├── HR_Dashboard.pdf
+│   └── dashboard_preview.png
+└── README.md
+---
+
+## 📂 Source des données
+IBM HR Analytics Employee Attrition —
+[Kaggle Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+---
+
+*Projet réalisé dans le cadre de mon portfolio Data — Alternance Data & BI · Avril 2026*
