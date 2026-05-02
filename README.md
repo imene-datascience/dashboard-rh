@@ -13,7 +13,7 @@ les départs d'employés à partir de données RH réelles.
 ---
 
 ## 📸 Aperçu du Dashboard
-![Dashboard](exports/dashboard_preview.png)
+![Dashboard](exports/dashboard_preview.png.png)
 
 ---
 
