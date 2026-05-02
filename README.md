@@ -46,9 +46,7 @@ les départs d'employés à partir de données RH réelles.
 | Modélisation & Requêtes | MySQL · SQLAlchemy · SQL |
 | Visualisation & KPIs | Power BI · DAX |
 
----
-
-## 📁 Structure du projet
+```
 dashboard-rh/
 ├── data/
 │   ├── WA_Fn-UseC_-HR-Employee-Attrition.csv
@@ -59,9 +57,9 @@ dashboard-rh/
 │   └── 03_sql_load.py
 ├── exports/
 │   ├── HR_Dashboard.pdf
-│   └── dashboard_preview.png
+│   └── dashboard_preview.jpg
 └── README.md
----
+```
 
 ## 📂 Source des données
 IBM HR Analytics Employee Attrition —
